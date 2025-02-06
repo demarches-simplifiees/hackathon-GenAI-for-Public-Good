@@ -20,10 +20,15 @@ Merci de compléter ce README avec les éléments suivants :
 ---
 
 **Pertinence**
+Résumé court du produit
+Simplifier et faciliter la création et le traitement de démarches administratives nativement accessibles et intégrant les données publiques disponibles.
 
 **Impact**
+Simplifier l'évolution de 10 000 démarches numérique existantes et accélérer le traitement des 4 millions de dossiers usagers déposés par an sur celles-ci.
+Faciliter la création des prochaines démarches.
 
 **Faisabilité**
+Aujourd'hui nous utilisons un modèle pour appliquer les recommandations du [Guide/Kit Formulaires]((https://www.modernisation.gouv.fr/files/2024-03/guide_kit-formulaires.pdf) de la DITP
 
 **Scalabilité**
 
