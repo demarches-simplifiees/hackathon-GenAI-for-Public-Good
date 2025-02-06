@@ -35,3 +35,7 @@ Aujourd'hui nous utilisons un modèle pour appliquer les recommandations du [Gui
 **Scalabilité**
 Pour le moment, l'implémentation actuelle ne fait appel a l'assistant (LLM/AI) d'édition de démarche qu'avant la publication de celles ci, il n'y a pas de sujet de scalabilité
 
+____
+
+Implémentation : une partie de la solution est entrain d'être intégrée au coeur de DS : https://github.com/demarches-simplifiees/demarches-simplifiees.fr/pull/11284
+
