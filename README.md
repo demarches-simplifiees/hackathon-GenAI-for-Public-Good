@@ -19,6 +19,8 @@ Merci de compléter ce README avec les éléments suivants :
 
 ---
 
+https://github.com/user-attachments/assets/7a7207e4-8915-4671-897a-1d6ccdadc67c
+
 **Pertinence**
 Résumé court du produit
 Simplifier et faciliter la création et le traitement de démarches administratives nativement accessibles et intégrant les données publiques disponibles.
@@ -31,6 +33,5 @@ Faciliter la création des prochaines démarches.
 Aujourd'hui nous utilisons un modèle pour appliquer les recommandations du [Guide/Kit Formulaires]((https://www.modernisation.gouv.fr/files/2024-03/guide_kit-formulaires.pdf) de la DITP
 
 **Scalabilité**
-
-https://github.com/user-attachments/assets/7a7207e4-8915-4671-897a-1d6ccdadc67c
+Pour le moment, l'implémentation actuelle ne fait appel a l'assistant (LLM/AI) d'édition de démarche qu'avant la publication de celles ci, il n'y a pas de sujet de scalabilité
 
